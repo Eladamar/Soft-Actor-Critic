@@ -14,4 +14,4 @@ Followed [In-depth review of Soft Actor-Critic](https://towardsdatascience.com/i
 
 ## How to Use
 Just open the notebook:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16U3yU31cUNXGQu95oReKpdj72zGkhRw8?authuser=2#scrollTo=bzpZ-Zxjm_Yv)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/16U3yU31cUNXGQu95oReKpdj72zGkhRw8?authuser=2#scrollTo=bzpZ-Zxjm_Yv](https://colab.research.google.com/drive/1aAMWNd-D0XGTwp9Xu_Z8IK1O5ZEoiB5p?usp=sharing))
