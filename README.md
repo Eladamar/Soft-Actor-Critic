@@ -13,5 +13,8 @@ Using beta policy and priority replay buffer.
 Followed [In-depth review of Soft Actor-Critic](https://towardsdatascience.com/in-depth-review-of-soft-actor-critic-91448aba63d4) and [PER](https://github.com/rlcode/per) implementation.
 
 ## How to Use
+
+https://colab.research.google.com/drive/1aAMWNd-D0XGTwp9Xu_Z8IK1O5ZEoiB5p?usp=sharing
 Just open the notebook:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16U3yU31cUNXGQu95oReKpdj72zGkhRw8?authuser=2#scrollTo=bzpZ-Zxjm_Yv](https://colab.research.google.com/drive/1aAMWNd-D0XGTwp9Xu_Z8IK1O5ZEoiB5p?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aAMWNd-D0XGTwp9Xu_Z8IK1O5ZEoiB5p?usp=sharing
+)
