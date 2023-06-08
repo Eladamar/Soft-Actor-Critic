@@ -1,7 +1,7 @@
 # Soft-Actor-Critic
 
 Simple implementation of soft actor critic algorithm in pytorch.  
-Using beta policy and priority replay buffer.
+Added beta policy and priority replay buffer for improvements.
 
 ## Papers
 
